@@ -1,0 +1,5 @@
+2024-04-25 19:08:39,828 - INFO - MyNamedTuple(name_of_file_or_dir='Новая папка', ext_or_flag='dir', name_of_parent_dir='tynai')
+2024-04-25 19:08:39,828 - INFO - MyNamedTuple(name_of_file_or_dir='Новая папка (2)', ext_or_flag='dir', name_of_parent_dir='tynai')
+2024-04-25 19:08:39,829 - INFO - MyNamedTuple(name_of_file_or_dir='папочка', ext_or_flag='dir', name_of_parent_dir='tynai')
+2024-04-25 19:08:39,829 - INFO - MyNamedTuple(name_of_file_or_dir='my_file', ext_or_flag='.py', name_of_parent_dir='tynai')
+2024-04-25 19:08:39,829 - INFO - MyNamedTuple(name_of_file_or_dir='Новая папка3', ext_or_flag='dir', name_of_parent_dir='Новая папка (2)')
